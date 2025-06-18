@@ -42,21 +42,16 @@ if (!empty($filters['entite'])) {
 
 $whereClause = implode(' AND ', $where);
 
-// Récupérer les logs
+// Récupérer les logs - Version simplifiée pour debug
 $sql = "
     SELECT 
         l.*,
         u.nom as utilisateur_nom,
         u.prenom as utilisateur_prenom,
-        u.role as utilisateur_role,
-        CASE 
-            WHEN l.entite = 'incident' THEN (SELECT CONCAT('INC-', i.id, ' - ', i.nom_client) FROM incidents i WHERE i.id = l.entite_id)
-            WHEN l.entite = 'tournee' THEN (SELECT CONCAT('Tournée ', t.numero) FROM tournees t WHERE t.id = l.entite_id)
-            ELSE CONCAT(l.entite, ' #', l.entite_id)
-        END as entite_description
+        u.role as utilisateur_role
     FROM logs_activite l
     LEFT JOIN utilisateurs u ON l.utilisateur_id = u.id
-    WHERE $whereClause
+    WHERE DATE(l.created_at) BETWEEN :date_debut AND :date_fin
     ORDER BY l.created_at DESC
     LIMIT 500
 ";
@@ -64,6 +59,9 @@ $sql = "
 $stmt = $db->prepare($sql);
 $stmt->execute($params);
 $logs = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+// Debug : afficher le nombre de logs trouvés
+echo "<!-- Debug: " . count($logs) . " logs trouvés -->";
 
 // Récupérer les utilisateurs pour le filtre
 $usersSql = "SELECT id, nom, prenom, email FROM utilisateurs ORDER BY nom";

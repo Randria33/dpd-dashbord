@@ -143,3 +143,135 @@
 [2025-06-18 15:30:03] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
 [2025-06-18 15:30:03] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
 [2025-06-18 15:30:05] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:40:01] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:40:01] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:40:04] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:40:04] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:40:09] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:40:30] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:44:24] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:44:24] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:44:26] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:44:43] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:44:52] [INFO] Récupération de l'incident {"id":"16"}
+[2025-06-18 15:47:02] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:47:02] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:47:03] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:47:05] [INFO] Récupération de l'incident {"id":"16"}
+[2025-06-18 15:47:07] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:47:13] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:47:15] [INFO] Récupération de l'incident {"id":"15"}
+[2025-06-18 15:56:46] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:57:06] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:57:33] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:57:33] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:57:35] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:57:35] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:57:36] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:57:42] [INFO] Récupération de l'incident {"id":"11"}
+[2025-06-18 15:57:45] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:58:53] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:30] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:43] [INFO] Suppression de l'incident {"id":"24"}
+[2025-06-18 15:59:43] [INFO] Incident supprimé avec succès {"id":"24"}
+[2025-06-18 15:59:43] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:46] [INFO] Suppression de l'incident {"id":"8"}
+[2025-06-18 15:59:46] [INFO] Incident supprimé avec succès {"id":"8"}
+[2025-06-18 15:59:46] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:47] [INFO] Suppression de l'incident {"id":"9"}
+[2025-06-18 15:59:47] [INFO] Incident supprimé avec succès {"id":"9"}
+[2025-06-18 15:59:47] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:50] [INFO] Suppression de l'incident {"id":"17"}
+[2025-06-18 15:59:50] [INFO] Incident supprimé avec succès {"id":"17"}
+[2025-06-18 15:59:50] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:52] [INFO] Suppression de l'incident {"id":"10"}
+[2025-06-18 15:59:52] [INFO] Incident supprimé avec succès {"id":"10"}
+[2025-06-18 15:59:52] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:54] [INFO] Suppression de l'incident {"id":"25"}
+[2025-06-18 15:59:54] [INFO] Incident supprimé avec succès {"id":"25"}
+[2025-06-18 15:59:54] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:59:57] [INFO] Suppression de l'incident {"id":"11"}
+[2025-06-18 15:59:57] [INFO] Incident supprimé avec succès {"id":"11"}
+[2025-06-18 15:59:57] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:00] [INFO] Suppression de l'incident {"id":"15"}
+[2025-06-18 16:00:00] [INFO] Incident supprimé avec succès {"id":"15"}
+[2025-06-18 16:00:00] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:02] [INFO] Suppression de l'incident {"id":"16"}
+[2025-06-18 16:00:02] [INFO] Incident supprimé avec succès {"id":"16"}
+[2025-06-18 16:00:02] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:04] [INFO] Suppression de l'incident {"id":"18"}
+[2025-06-18 16:00:04] [INFO] Incident supprimé avec succès {"id":"18"}
+[2025-06-18 16:00:04] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:06] [INFO] Suppression de l'incident {"id":"19"}
+[2025-06-18 16:00:06] [INFO] Incident supprimé avec succès {"id":"19"}
+[2025-06-18 16:00:06] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:09] [INFO] Suppression de l'incident {"id":"20"}
+[2025-06-18 16:00:09] [INFO] Incident supprimé avec succès {"id":"20"}
+[2025-06-18 16:00:09] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:11] [INFO] Suppression de l'incident {"id":"21"}
+[2025-06-18 16:00:11] [INFO] Incident supprimé avec succès {"id":"21"}
+[2025-06-18 16:00:11] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:12] [INFO] Suppression de l'incident {"id":"22"}
+[2025-06-18 16:00:12] [INFO] Incident supprimé avec succès {"id":"22"}
+[2025-06-18 16:00:12] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:00:14] [INFO] Suppression de l'incident {"id":"23"}
+[2025-06-18 16:00:14] [INFO] Incident supprimé avec succès {"id":"23"}
+[2025-06-18 16:00:14] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:01:10] [INFO] Import CSV {"file":"C:\\xampp\\htdocs\\dpd-dashbord\/uploads\/import_2025-06-18_160110_Classeur5.csv"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":2,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":3,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":4,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":5,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":6,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":7,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":8,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":9,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":10,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Création d'un incident {"data":{"tournee_id":null,"type_incident_id":null,"nom_client":"","adresse_complete":"","numero_colis":"","numero_reclamation":"","date_incident":"2025-06-18","description":"","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:01:11] [ERROR] Erreur lors de la création de l'incident {"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [WARNING] Erreur import ligne {"line":11,"error":"La tourn\u00e9e est requise, Le type d'incident est requis, Le nom du client est requis"}
+[2025-06-18 16:01:11] [INFO] Import CSV terminé {"imported":0,"errors":10}
+[2025-06-18 16:04:39] [INFO] Import CSV {"file":"C:\\xampp\\htdocs\\dpd-dashbord\/uploads\/import_2025-06-18_160439_import.csv"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":1,"type_incident_id":1,"nom_client":"Jean Dupont","adresse_complete":"123 Rue de la Paix 75001 Paris","numero_colis":"COL123456","numero_reclamation":"REC789","date_incident":"2024-01-15","description":"Client m\u00e9content du retard de livraison","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"26"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":2,"type_incident_id":2,"nom_client":"Marie Martin","adresse_complete":"45 Avenue des Champs-\u00c9lys\u00e9es 75008 Paris","numero_colis":"COL789012","numero_reclamation":"REC456","date_incident":"2024-01-14","description":"Carton ab\u00eem\u00e9 lors du transport","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"27"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":3,"type_incident_id":3,"nom_client":"Pierre Bernard","adresse_complete":"78 Boulevard Haussmann 75009 Paris","numero_colis":"COL345678","numero_reclamation":"","date_incident":"2024-01-13","description":"Livraison promise non respect\u00e9e","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"28"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":4,"type_incident_id":4,"nom_client":"Sophie Leroy","adresse_complete":"12 Rue du Commerce 75015 Paris","numero_colis":"COL901234","numero_reclamation":"REC123","date_incident":"2024-01-12","description":"Colis introuvable dans le syst\u00e8me","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"29"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":6,"type_incident_id":5,"nom_client":"Luc Moreau","adresse_complete":"56 Rue de Rivoli 75004 Paris","numero_colis":"COL567890","numero_reclamation":"","date_incident":"2024-01-11","description":"Num\u00e9ro de rue incorrect sur l'\u00e9tiquette","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"30"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":7,"type_incident_id":6,"nom_client":"Emma Dubois","adresse_complete":"34 Rue Saint-Honor\u00e9 75001 Paris","numero_colis":"COL234567","numero_reclamation":"","date_incident":"2024-01-10","description":"Client absent lors du passage","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"31"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":1,"type_incident_id":7,"nom_client":"Thomas Petit","adresse_complete":"89 Avenue de la R\u00e9publique 75011 Paris","numero_colis":"COL678901","numero_reclamation":"REC987","date_incident":"2024-01-09","description":"Client refuse le colis sans raison","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"32"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":2,"type_incident_id":1,"nom_client":"Julie Roux","adresse_complete":"23 Rue de la Roquette 75011 Paris","numero_colis":"COL890123","numero_reclamation":"REC654","date_incident":"2024-01-08","description":"R\u00e9clamation pour mauvais traitement du colis","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"33"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":3,"type_incident_id":2,"nom_client":"Nicolas Simon","adresse_complete":"67 Rue de Belleville 75020 Paris","numero_colis":"COL456789","numero_reclamation":"","date_incident":"2024-01-07","description":"Emballage compl\u00e8tement d\u00e9chir\u00e9","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"34"}
+[2025-06-18 16:04:39] [INFO] Création d'un incident {"data":{"tournee_id":4,"type_incident_id":3,"nom_client":"C\u00e9line Laurent","adresse_complete":"45 Rue de M\u00e9nilmontant 75020 Paris","numero_colis":"COL012345","numero_reclamation":"","date_incident":"2024-01-06","description":"Retard de 3 jours sur la livraison","statut":"nouveau","priorite":"normale"}}
+[2025-06-18 16:04:39] [INFO] Incident créé avec succès {"id":"35"}
+[2025-06-18 16:04:39] [INFO] Import CSV terminé {"imported":10,"errors":0}
+[2025-06-18 16:04:42] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 16:04:42] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 16:04:48] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 16:05:25] [INFO] Récupération des incidents {"filters":[],"page":1}

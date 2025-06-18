@@ -1,6 +1,6 @@
 
 <?php
- require_once 'autoload.php';
+require_once 'autoload.php';
 
 use Utils\Auth;
 use Services\IncidentService;
@@ -82,7 +82,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             ':user_id' => $user['id'],
                             ':remarque' => $_POST['nouvelle_remarque']
                         ]);
+                        
+                        // Logger l'action manuellement
+                        $logSql = "INSERT INTO logs_activite (utilisateur_id, action, entite, entite_id, type_action, created_at) 
+                                   VALUES (:user_id, :action, :entite, :entite_id, :type_action, NOW())";
+                        $logStmt = $db->prepare($logSql);
+                        $logStmt->execute([
+                            ':user_id' => $user['id'],
+                            ':action' => 'Remarque ajoutée',
+                            ':entite' => 'incident',
+                            ':entite_id' => $id,
+                            ':type_action' => 'remarque'
+                        ]);
+                        
                         $message = "Remarque ajoutée avec succès";
+                    }
+                    
+                    // Mettre à jour seulement client_repondu pour les chefs d'équipe
+                    if (isset($_POST['client_repondu'])) {
+                        $updSql = "UPDATE incidents SET client_repondu = :client_repondu WHERE id = :id";
+                        $updStmt = $db->prepare($updSql);
+                        $updStmt->execute([
+                            ':client_repondu' => $_POST['client_repondu'],
+                            ':id' => $id
+                        ]);
                     }
                 } else {
                     // Admin peut tout modifier
@@ -156,6 +179,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     $updStmt->execute([
                         ':new_remark' => "\n[" . date('d/m/Y H:i') . " - " . $user['nom'] . "] " . $remarque,
                         ':id' => $incidentId
+                    ]);
+                    
+                    // Logger l'action manuellement au lieu d'utiliser la procédure
+                    $logSql = "INSERT INTO logs_activite (utilisateur_id, action, entite, entite_id, type_action, created_at) 
+                               VALUES (:user_id, :action, :entite, :entite_id, :type_action, NOW())";
+                    $logStmt = $db->prepare($logSql);
+                    $logStmt->execute([
+                        ':user_id' => $user['id'],
+                        ':action' => 'Remarque ajoutée',
+                        ':entite' => 'incident',
+                        ':entite_id' => $incidentId,
+                        ':type_action' => 'remarque'
                     ]);
                     
                     $message = "Remarque ajoutée avec succès";
@@ -730,6 +765,9 @@ if ($action === 'edit' && isset($_GET['id'])) {
                                     </option>
                                 <?php endforeach; ?>
                             </select>
+                            <?php if ($user['role'] === 'chef_equipe' && $incident): ?>
+                                <input type="hidden" name="tournee_id" value="<?= $incident['tournee_id'] ?>">
+                            <?php endif; ?>
                         </div>
 
                         <div class="form-group">
@@ -744,6 +782,9 @@ if ($action === 'edit' && isset($_GET['id'])) {
                                     </option>
                                 <?php endforeach; ?>
                             </select>
+                            <?php if ($user['role'] === 'chef_equipe' && $incident): ?>
+                                <input type="hidden" name="type_incident_id" value="<?= $incident['type_incident_id'] ?>">
+                            <?php endif; ?>
                         </div>
                     </div>
 
@@ -907,5 +948,3 @@ if ($action === 'edit' && isset($_GET['id'])) {
     </div>
 </body>
 </html>
-<?php
-// Gérer les actions du formulaire      <

@@ -1,0 +1,11 @@
+tournee;type;nom;adresse;colis;reclamation;date;description
+310;Réclamation;Jean Dupont;123 Rue de la Paix 75001 Paris;COL123456;REC789;15/01/2024;Client mécontent du retard de livraison
+320;Colis endommagé;Marie Martin;45 Avenue des Champs-Élysées 75008 Paris;COL789012;REC456;14/01/2024;Carton abîmé lors du transport
+330;Retard livraison;Pierre Bernard;78 Boulevard Haussmann 75009 Paris;COL345678;;13/01/2024;Livraison promise non respectée
+340;Colis perdu;Sophie Leroy;12 Rue du Commerce 75015 Paris;COL901234;REC123;12/01/2024;Colis introuvable dans le système
+410;Adresse incorrecte;Luc Moreau;56 Rue de Rivoli 75004 Paris;COL567890;;11/01/2024;Numéro de rue incorrect sur l'étiquette
+420;Client absent;Emma Dubois;34 Rue Saint-Honoré 75001 Paris;COL234567;;10/01/2024;Client absent lors du passage
+310;Refus colis;Thomas Petit;89 Avenue de la République 75011 Paris;COL678901;REC987;09/01/2024;Client refuse le colis sans raison
+320;Réclamation;Julie Roux;23 Rue de la Roquette 75011 Paris;COL890123;REC654;08/01/2024;Réclamation pour mauvais traitement du colis
+330;Colis endommagé;Nicolas Simon;67 Rue de Belleville 75020 Paris;COL456789;;07/01/2024;Emballage complètement déchiré
+340;Retard livraison;Céline Laurent;45 Rue de Ménilmontant 75020 Paris;COL012345;;06/01/2024;Retard de 3 jours sur la livraison
