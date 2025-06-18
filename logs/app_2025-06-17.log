@@ -1,0 +1,138 @@
+[2025-06-17 14:37:30] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 14:37:30] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 14:38:51] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 14:38:51] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 14:39:53] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 14:39:53] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 14:40:17] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 14:40:17] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 14:51:19] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 14:56:31] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 14:58:54] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 14:58:54] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 14:59:58] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:00:05] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:00:05] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:01:40] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:01:40] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:02:45] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:02:45] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:02:54] [INFO] Suppression de l'incident {"id":"14"}
+[2025-06-17 15:02:54] [INFO] Incident supprimé avec succès {"id":"14"}
+[2025-06-17 15:02:54] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:02:58] [INFO] Suppression de l'incident {"id":"13"}
+[2025-06-17 15:02:58] [INFO] Incident supprimé avec succès {"id":"13"}
+[2025-06-17 15:02:58] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:02] [INFO] Suppression de l'incident {"id":"1"}
+[2025-06-17 15:03:02] [INFO] Incident supprimé avec succès {"id":"1"}
+[2025-06-17 15:03:02] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:04] [INFO] Suppression de l'incident {"id":"2"}
+[2025-06-17 15:03:04] [INFO] Incident supprimé avec succès {"id":"2"}
+[2025-06-17 15:03:04] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:06] [INFO] Suppression de l'incident {"id":"3"}
+[2025-06-17 15:03:06] [INFO] Incident supprimé avec succès {"id":"3"}
+[2025-06-17 15:03:06] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:08] [INFO] Suppression de l'incident {"id":"4"}
+[2025-06-17 15:03:08] [INFO] Incident supprimé avec succès {"id":"4"}
+[2025-06-17 15:03:08] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:09] [INFO] Suppression de l'incident {"id":"5"}
+[2025-06-17 15:03:09] [INFO] Incident supprimé avec succès {"id":"5"}
+[2025-06-17 15:03:09] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:12] [INFO] Suppression de l'incident {"id":"12"}
+[2025-06-17 15:03:12] [INFO] Incident supprimé avec succès {"id":"12"}
+[2025-06-17 15:03:12] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:14] [INFO] Suppression de l'incident {"id":"6"}
+[2025-06-17 15:03:14] [INFO] Incident supprimé avec succès {"id":"6"}
+[2025-06-17 15:03:14] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:03:16] [INFO] Suppression de l'incident {"id":"7"}
+[2025-06-17 15:03:16] [INFO] Incident supprimé avec succès {"id":"7"}
+[2025-06-17 15:03:16] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:08:52] [INFO] Import CSV {"file":"C:\\xampp\\htdocs\\dpd-dashbord\/uploads\/import_2025-06-17_150852_import.csv"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":1,"type_incident_id":1,"nom_client":"Jean Dupont","adresse_complete":"123 Rue de la Paix 75001 Paris","numero_colis":"COL123456","numero_reclamation":"REC789","date_incident":"2024-01-15","description":"Client m\u00e9content du retard de livraison","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"15"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":2,"type_incident_id":2,"nom_client":"Marie Martin","adresse_complete":"45 Avenue des Champs-\u00c9lys\u00e9es 75008 Paris","numero_colis":"COL789012","numero_reclamation":"REC456","date_incident":"2024-01-14","description":"Carton ab\u00eem\u00e9 lors du transport","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"16"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":3,"type_incident_id":3,"nom_client":"Pierre Bernard","adresse_complete":"78 Boulevard Haussmann 75009 Paris","numero_colis":"COL345678","numero_reclamation":"","date_incident":"2024-01-13","description":"Livraison promise non respect\u00e9e","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"17"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":4,"type_incident_id":4,"nom_client":"Sophie Leroy","adresse_complete":"12 Rue du Commerce 75015 Paris","numero_colis":"COL901234","numero_reclamation":"REC123","date_incident":"2024-01-12","description":"Colis introuvable dans le syst\u00e8me","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"18"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":6,"type_incident_id":5,"nom_client":"Luc Moreau","adresse_complete":"56 Rue de Rivoli 75004 Paris","numero_colis":"COL567890","numero_reclamation":"","date_incident":"2024-01-11","description":"Num\u00e9ro de rue incorrect sur l'\u00e9tiquette","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"19"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":7,"type_incident_id":6,"nom_client":"Emma Dubois","adresse_complete":"34 Rue Saint-Honor\u00e9 75001 Paris","numero_colis":"COL234567","numero_reclamation":"","date_incident":"2024-01-10","description":"Client absent lors du passage","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"20"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":1,"type_incident_id":7,"nom_client":"Thomas Petit","adresse_complete":"89 Avenue de la R\u00e9publique 75011 Paris","numero_colis":"COL678901","numero_reclamation":"REC987","date_incident":"2024-01-09","description":"Client refuse le colis sans raison","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"21"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":2,"type_incident_id":1,"nom_client":"Julie Roux","adresse_complete":"23 Rue de la Roquette 75011 Paris","numero_colis":"COL890123","numero_reclamation":"REC654","date_incident":"2024-01-08","description":"R\u00e9clamation pour mauvais traitement du colis","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"22"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":3,"type_incident_id":2,"nom_client":"Nicolas Simon","adresse_complete":"67 Rue de Belleville 75020 Paris","numero_colis":"COL456789","numero_reclamation":"","date_incident":"2024-01-07","description":"Emballage compl\u00e8tement d\u00e9chir\u00e9","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"23"}
+[2025-06-17 15:08:52] [INFO] Création d'un incident {"data":{"tournee_id":4,"type_incident_id":3,"nom_client":"C\u00e9line Laurent","adresse_complete":"45 Rue de M\u00e9nilmontant 75020 Paris","numero_colis":"COL012345","numero_reclamation":"","date_incident":"2024-01-06","description":"Retard de 3 jours sur la livraison","statut":"nouveau","priorite":"normale"}}
+[2025-06-17 15:08:52] [INFO] Incident créé avec succès {"id":"24"}
+[2025-06-17 15:08:52] [INFO] Import CSV terminé {"imported":10,"errors":0}
+[2025-06-17 15:08:55] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:08:55] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:09:00] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:09:44] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-17 15:10:11] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 15:11:00] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:11:00] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:21:58] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:21:58] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:33:11] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:33:11] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:38:12] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 15:38:12] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 15:38:46] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"310","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-17 15:38:46] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"310","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}
+[2025-06-17 15:40:07] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"310","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-17 15:40:07] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"310","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}
+[2025-06-17 15:40:13] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"350","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-17 15:40:13] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"350","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}
+[2025-06-17 16:00:27] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"350","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-17 16:00:27] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"350","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}
+[2025-06-17 16:00:29] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 16:04:58] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 16:04:58] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 16:05:02] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 16:05:03] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 16:05:03] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 16:05:03] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 16:05:04] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 16:05:04] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 16:05:05] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 16:05:24] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 16:05:24] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 16:05:34] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 16:05:34] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 16:07:40] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 16:07:40] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 16:07:56] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"","ville":"","statut":"","date_debut":"2025-06-04","date_fin":"2025-06-03","search":""},"page":1}
+[2025-06-17 16:07:56] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"","ville":"","statut":"","date_debut":"2025-06-04","date_fin":"2025-06-03","search":""}}
+[2025-06-17 18:27:26] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 18:27:26] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 18:28:34] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 18:28:34] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 18:28:37] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 18:28:37] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 18:29:33] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 18:29:33] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 18:29:38] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 18:30:51] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 18:30:57] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-17 18:31:17] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-17 18:32:59] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-17 18:33:02] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 18:33:02] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 18:33:04] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 18:33:04] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 18:33:37] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"","ville":"","statut":"","date_debut":"2025-06-09","date_fin":"2025-06-18","search":""},"page":1}
+[2025-06-17 18:33:37] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"","ville":"","statut":"","date_debut":"2025-06-09","date_fin":"2025-06-18","search":""}}
+[2025-06-17 20:30:57] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 20:31:38] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 20:34:36] [INFO] Création d'un incident {"data":{"tournee_id":"23","type_incident_id":"4","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"Colis UV et plus de Trace , CCTV confirme la prise en charge","statut":"en_cours","priorite":"haute"}}
+[2025-06-17 20:34:36] [INFO] Incident créé avec succès {"id":"25"}
+[2025-06-17 20:34:36] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-17 20:34:41] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-17 20:34:41] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-17 20:35:02] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"CXVA","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-17 20:35:02] [INFO] Récupération des statistiques {"filters":{"type":"","tournee":"CXVA","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}

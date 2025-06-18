@@ -1,0 +1,145 @@
+[2025-06-18 10:04:59] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 10:04:59] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 10:05:24] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 10:05:29] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 10:06:58] [INFO] Mise à jour de l'incident {"id":"25","data":{"tournee_id":"23","type_incident_id":"4","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"1-Colis UV et plus de Trace , CCTV confirme la prise en charge\r\n2-Colis multi piece, Livr\u00e9 sans scann\u00e9 ( selectionn\u00e9 a la main )\r\n3-Repondu ","statut":"ferme","priorite":"haute"}}
+[2025-06-18 10:06:58] [INFO] Incident mis à jour avec succès {"id":"25"}
+[2025-06-18 10:06:58] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 10:06:58] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 10:07:01] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 10:07:01] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 10:07:17] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 10:07:19] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 10:07:33] [INFO] Mise à jour de l'incident {"id":"25","data":{"tournee_id":"23","type_incident_id":"4","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"1-Colis UV et plus de Trace , CCTV confirme la prise en charge\r\n2-Colis multi piece, Livr\u00e9 sans scann\u00e9 ( selectionn\u00e9 a la main )\r\n3-Repondu ","statut":"resolu","priorite":"haute"}}
+[2025-06-18 10:07:33] [INFO] Incident mis à jour avec succès {"id":"25"}
+[2025-06-18 10:07:33] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 10:07:33] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 10:07:37] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 10:07:38] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 10:07:38] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:30:01] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:30:01] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:30:05] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:30:05] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:30:13] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:35:50] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:36:42] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:36:42] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:36:52] [INFO] Récupération des incidents {"filters":{"type":"Client absent","tournee":"","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-18 11:36:52] [INFO] Récupération des statistiques {"filters":{"type":"Client absent","tournee":"","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}
+[2025-06-18 11:36:53] [INFO] Récupération des incidents {"filters":{"type":"Client absent","tournee":"","ville":"","statut":"","date_debut":"","date_fin":"","search":""},"page":1}
+[2025-06-18 11:36:54] [INFO] Récupération des statistiques {"filters":{"type":"Client absent","tournee":"","ville":"","statut":"","date_debut":"","date_fin":"","search":""}}
+[2025-06-18 11:37:03] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:37:18] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:37:18] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:37:19] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:37:19] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:37:21] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:37:25] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:37:29] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:37:29] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:37:32] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:37:55] [INFO] Récupération des incidents {"filters":{"type":"","tournee":"310","ville":"","statut":"","date_debut":"2025-06-01","date_fin":"2025-06-23"},"page":1}
+[2025-06-18 11:38:23] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:38:23] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:40:05] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:40:05] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:40:07] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:40:17] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 11:40:17] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 11:40:18] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:40:30] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-18 11:40:37] [INFO] Mise à jour de l'incident {"id":"8","data":{"tournee_id":"5","type_incident_id":"1","nom_client":"Julie Roux","adresse_complete":"23 Rue de la Roquette 75011 Paris","numero_colis":"COL890123","numero_reclamation":"REC654","date_incident":"2025-06-13","description":"R\u00e9clamation pour mauvais traitement du colis","client_repondu":"oui","statut":"resolu","priorite":"haute"}}
+[2025-06-18 11:40:37] [INFO] Incident mis à jour avec succès {"id":"8"}
+[2025-06-18 11:40:37] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-18 11:40:37] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:40:54] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:40:59] [INFO] Mise à jour de l'incident {"id":"25","data":{"tournee_id":"23","type_incident_id":"4","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"1-Colis UV et plus de Trace , CCTV confirme la prise en charge\r\n2-Colis multi piece, Livr\u00e9 sans scann\u00e9 ( selectionn\u00e9 a la main )\r\n3-Repondu ","client_repondu":"oui","statut":"resolu","priorite":"haute"}}
+[2025-06-18 11:40:59] [INFO] Incident mis à jour avec succès {"id":"25"}
+[2025-06-18 11:40:59] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:40:59] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:44:22] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:44:24] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:44:33] [INFO] Mise à jour de l'incident {"id":"25","data":{"tournee_id":"23","type_incident_id":"4","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"1-Colis UV et plus de Trace , CCTV confirme la prise en charge\r\n2-Colis multi piece, Livr\u00e9 sans scann\u00e9 ( selectionn\u00e9 a la main )\r\n3-Repondu ","client_repondu":"oui","statut":"resolu","priorite":"haute"}}
+[2025-06-18 11:44:33] [INFO] Incident mis à jour avec succès {"id":"25"}
+[2025-06-18 11:44:33] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:44:33] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:44:47] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:44:52] [INFO] Mise à jour de l'incident {"id":"25","data":{"tournee_id":"23","type_incident_id":"6","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"1-Colis UV et plus de Trace , CCTV confirme la prise en charge\r\n2-Colis multi piece, Livr\u00e9 sans scann\u00e9 ( selectionn\u00e9 a la main )\r\n3-Repondu ","client_repondu":"en_attente","statut":"resolu","priorite":"haute"}}
+[2025-06-18 11:44:52] [INFO] Incident mis à jour avec succès {"id":"25"}
+[2025-06-18 11:44:52] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:44:52] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:48:25] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 11:48:31] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:48:37] [INFO] Mise à jour de l'incident {"id":"25","data":{"tournee_id":"23","type_incident_id":"6","nom_client":"Paul Mandis ","adresse_complete":"87 rue saint lazar Paris 75009","numero_colis":"1360801013","numero_reclamation":"","date_incident":"2025-06-10","description":"1-Colis UV et plus de Trace , CCTV confirme la prise en charge\r\n2-Colis multi piece, Livr\u00e9 sans scann\u00e9 ( selectionn\u00e9 a la main )\r\n3-Repondu ","client_repondu":"non","statut":"resolu","priorite":"haute"}}
+[2025-06-18 11:48:37] [INFO] Incident mis à jour avec succès {"id":"25"}
+[2025-06-18 11:48:37] [INFO] Récupération de l'incident {"id":"25"}
+[2025-06-18 11:48:37] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:01:25] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:01:25] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:05:22] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:05:22] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:05:24] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:05:53] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:05:53] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:05:59] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:06:10] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-18 12:06:14] [INFO] Mise à jour de l'incident {"id":"8","data":{"tournee_id":"5","type_incident_id":"1","nom_client":"Julie Roux","adresse_complete":"23 Rue de la Roquette 75011 Paris","numero_colis":"COL890123","numero_reclamation":"REC654","date_incident":"2025-06-13","description":"R\u00e9clamation pour mauvais traitement du colis","client_repondu":"oui","statut":"resolu","priorite":"haute"}}
+[2025-06-18 12:06:14] [INFO] Incident mis à jour avec succès {"id":"8"}
+[2025-06-18 12:06:14] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-18 12:06:14] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:06:18] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:06:18] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:06:21] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:06:32] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:06:32] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:06:34] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:07:47] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:07:51] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:07:52] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:07:52] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:07:54] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:07:57] [INFO] Récupération de l'incident {"id":"9"}
+[2025-06-18 12:08:01] [INFO] Mise à jour de l'incident {"id":"9","data":{"tournee_id":"6","type_incident_id":"2","nom_client":"Nicolas Simon","adresse_complete":"67 Rue de Belleville 75020 Paris","numero_colis":"COL456789","numero_reclamation":"","date_incident":"2025-06-12","description":"Emballage d\u00e9chir\u00e9","client_repondu":"oui","statut":"resolu","priorite":"normale"}}
+[2025-06-18 12:08:01] [INFO] Incident mis à jour avec succès {"id":"9"}
+[2025-06-18 12:08:01] [INFO] Récupération de l'incident {"id":"9"}
+[2025-06-18 12:08:01] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:08:35] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:08:35] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:08:41] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:15:00] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 12:26:23] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 12:26:23] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 12:26:27] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:09:04] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:09:10] [INFO] Récupération de l'incident {"id":"17"}
+[2025-06-18 15:09:14] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:09:14] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:09:19] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:10:10] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:10:10] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:10:17] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:10:39] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:18:36] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:18:44] [INFO] Récupération de l'incident {"id":"10"}
+[2025-06-18 15:19:02] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:19:02] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:19:05] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:19:08] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:19:08] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:19:09] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:19:14] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-18 15:19:37] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:20:03] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:21:09] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:21:13] [INFO] Récupération de l'incident {"id":"16"}
+[2025-06-18 15:21:36] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:21:36] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:21:47] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:21:58] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:21:58] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:22:07] [INFO] Récupération des incidents {"filters":[],"page":1}
+[2025-06-18 15:22:11] [INFO] Récupération de l'incident {"id":"8"}
+[2025-06-18 15:30:03] [INFO] Récupération des incidents {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null},"page":1}
+[2025-06-18 15:30:03] [INFO] Récupération des statistiques {"filters":{"type":null,"tournee":null,"ville":null,"statut":null,"date_debut":null,"date_fin":null,"search":null}}
+[2025-06-18 15:30:05] [INFO] Récupération des incidents {"filters":[],"page":1}
